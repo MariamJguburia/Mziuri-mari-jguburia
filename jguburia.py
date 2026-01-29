@@ -1,3 +1,4 @@
+#1
 with open('file.txt','r') as files:
     count = []
     for i in files:

@@ -23,4 +23,3 @@ objectt.withdraw(int(input('გამოსატანი თანხა: ')))
 objectt.display_balance()
 
 #2
-4

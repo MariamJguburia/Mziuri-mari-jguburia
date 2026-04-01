@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    color: grey;
+}
+.red-text {
+color: red;
+}
+h2 {
+  text-align: center;
+}
+.season-img {
+    width: 260px;
+    height: 400px;
+}
+a {
+  color: grey;
+}
+.white-text{
+color: white;
+}
+.seasons-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.season {
+    text-align: center;
+}
